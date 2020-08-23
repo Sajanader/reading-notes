@@ -1,4 +1,4 @@
-## the older coder
+## The older coder
 when he staart searshing about text editor teacher; he find different teachers' style. as he said you can choose text editor which you love and make you enjoyble; there is no the best one
 i know will as what is text editor. it is a tool that help develper to manage text to build website; it may be find it online or via application.
 
@@ -20,7 +20,7 @@ file Documents/file1.txt
 Documents/file1.txt: ERROR: cannot open 'file1.txt' (No such file or directory)
 
 
-#####paces in names
+##### paces in names
 Spaces in file and directory names are perfectly valid but we need to be a little careful with them. As you would remember, a space on the command line is how we seperate items. They are how we know what is the program name and can identify each command line argument. If we wanted to move into a directory called Holiday Photos for example the following would not work.
 
 ls Documents
