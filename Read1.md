@@ -4,7 +4,8 @@ is a tool to style your text on web.you can format you text with different featu
 there are some useful website like **github** to use markdown language; However you should create account before strat and this is website link [gifhub](https://github.com/)
 
 by markdown you can change text's foramt and adding links or images:
- * you can make heading by use # before words.
- * you can make the word in bold by using ** before a word and after it.
+ 1. you can make heading by use # before words.
+ 2. you can make the word in bold by using ** before a word and after it.
  
 It looks like so enjoyable; *that's right??.
+   
