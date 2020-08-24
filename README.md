@@ -1,4 +1,4 @@
-# reading-notes.md
+# reading-notes.
 ### A growth mindset 
 This theory that said everybody can enhance his/her skills by practicing and working hard. and it cosider the intelligence and talent additional good features.
 * challenges: when I face a challenge I try to do it; if I fail and search the root of problems.
