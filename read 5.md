@@ -18,7 +18,9 @@ css allows us to present what we structured in HTML and it make our website more
 * The rule for the <body> element sets a default color for all the text as well as the default background color for the page. Both use color names.
 * The rule for the h1 element sets the color of the heading using a hex code. There are two values for the background-color property of the <h1> element. The first provides a fallback color using a hex code and the second is an HSLA value for browsers that support this method.
 Each paragraph is then shown in a different color to represent the varying levels of acidity or alkalinity, and these are specified using RGB values.
-* The example also uses a property called margin to decrease the gap between the paragraph boxes, and a property called padding to create a gap between the edge of the boxes and the text within them** 
+* The example also uses a property called margin to decrease the gap between the paragraph boxes, and a property called padding to create a gap between the edge of the boxes and the text within them.
+
+
  ### examples:
   body {    background-color: silver;}
   h1 {    background-color: #ffffff;    background-color: hsla(0,100%,100%,0.5);    color: #64645A;}
