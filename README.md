@@ -8,5 +8,7 @@ This theory that said everybody can enhance his/her skills by practicing and wor
 #### by markdown you can change text's foramt and adding links or images:
  * you can make heading by use # before words.
  * you can make the word in bold by using ** before a word and after it.
-
-
+ 
+ Let me to tell you about myself. My name is saja.
+ I have studied management at Luminus university. I fond of learning new thing especially practical things. I love math and engineering but some obstacles prevented me studying it. Now I hope to be a professional developer. Actually after joining this course I become more fascinated in coding.
+ Finally, this is my GitHub account https://github.com/Sajanader.
