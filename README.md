@@ -12,3 +12,10 @@ This theory that said everybody can enhance his/her skills by practicing and wor
  Let me to tell you about myself. My name is saja.
  I have studied management at Luminus university. I fond of learning new thing especially practical things. I love math and engineering but some obstacles prevented me studying it. Now I hope to be a professional developer. Actually after joining this course I become more fascinated in coding.
  Finally, this is my GitHub account https://github.com/Sajanader.
+ 
+ # The main page 
+| Tables   |                 links                         |  Contents |
+|----------|:-------------:|------:|
+| read1 |[read1](https://github.com/Sajanader/reading-notes.md/blob/master/Read1.md)                                            |   markdown|
+| read2 |[read2](https://github.com/Sajanader/reading-notes.md/blob/master/read%202.md)                                         |text editor|
+| read3|[read3](https://github.com/Sajanader/reading-notes.md/blob/master/read%203.md)                              |version control system|
